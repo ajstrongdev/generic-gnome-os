@@ -42,7 +42,7 @@ xkb-data
 xorg
 x11-common
 zip
-vanilla-gnome-desktop
+ubuntu-desktop
 gdm3
 systemd
 software-properties-common
