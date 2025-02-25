@@ -43,7 +43,7 @@ xorg
 x11-common
 zip
 vanilla-gnome-desktop
-vanilla-gnome-desktop-settings
+gdm3
 systemd
 software-properties-common
 mousepad
